@@ -1,4 +1,4 @@
-# IMDB_Movies
+# Movie Review Analysis
 
 ## 1.What are all Directors Names and total count of unique directors in directors’ table?
 
